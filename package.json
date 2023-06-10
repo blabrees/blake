@@ -14,7 +14,7 @@
     "@mdx-js/react": "^1.5.1",
     "@theme-ui/components": "^0.2.50",
     "@theme-ui/presets": "^0.2.44",
-    "gatsby": "^2.18.4",
+    "gatsby": "^4.25.7",
     "gatsby-background-image": "^0.9.12",
     "gatsby-image": "^2.2.38",
     "gatsby-plugin-layout": "^1.1.21",
